@@ -13,5 +13,5 @@ $('#calc').on('click', () => {
             };
         };
     };
-    $('#answer').val(a); 
+    $('#answer').val(a);
 });
