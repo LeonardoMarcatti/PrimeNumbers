@@ -1,6 +1,6 @@
 $('#calc').on('click', () => {
     let a = new Array();
-    for(var i=1; i<=$('#number').val();i++){
+    for(let i=1; i<=$('#number').val();i++){
         a[i-1]=i;
     };
     for(let i1=1; i1<=$('#number').val(); i1++){
